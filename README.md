@@ -9,3 +9,5 @@ We are following CRISP-DM methodology for our project. These are the steps invol
 4. Model Building-We have used 4 models for our analysis that are SARIMA,Holt's Winter,Fb Prophet and Auto timeseries.
 5. Model Evaluation
 6. Model Deployment- For deployment we used **Streamlit Web Application Framework**. 
+
+## The model parameters are loaded in the form of pickle file for each variables. These pickle files later used for deployment purpose. ##
